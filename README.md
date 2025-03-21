@@ -1,2 +1,2 @@
-### Descriotion
+### Description
 syper pyper poekt
